@@ -1,6 +1,7 @@
 ### → Python
-| [![OCR Project](images/ocr.png)](https://github.com/MatthieuGillieron/ocr_project)
+| <a href="https://github.com/MatthieuGillieron/ocr_project"><img src="images/ocr.png" alt="OCR Project" width="300"></a> |
 |:-----------------------------------:|
+
 ### → Language C
-[![Modules C](images/modules.png)](https://github.com/MatthieuGillieron/modules_C)
+| <a href="https://github.com/MatthieuGillieron/modules_C"><img src="images/modules.png" alt="Modules C" width="300"></a> |
 |:-----------------------------------:|
