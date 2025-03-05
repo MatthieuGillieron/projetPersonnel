@@ -21,7 +21,7 @@
   <tr>
     <td></td>
     <td></td>
-    <td>• <a href="https://github.com/MatthieuGillieron/ocr_projects">clean_my_files</a></td>
+    <td>• <a href="https://github.com/MatthieuGillieron/ocr_project">ocr_id</a></td>
     <td></td>
   </tr>
 </table>
