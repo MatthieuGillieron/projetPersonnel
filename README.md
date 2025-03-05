@@ -13,7 +13,7 @@
   <tr>
     <td>• <a href="https://github.com/MatthieuGillieron/chatbot">chatbot</a></td>
     <td>• <a href="https://github.com/MatthieuGillieron/so_long">so_long</a></td>
-    <td>• <a href="https://github.com/MatthieuGillieron/cleanMyFiles">clean_my_files</a></td>
+    <td><br>• <a href="https://github.com/MatthieuGillieron/cleanMyFiles">clean_my_files</a><br><br>• <a href="https://github.com/MatthieuGillieron/ocr_project">ocr_id</a></td>
     <td>coming soon</td>
   </tr>
 </table>
