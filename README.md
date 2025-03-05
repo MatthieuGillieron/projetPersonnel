@@ -15,13 +15,13 @@
     <td>• <a href="https://github.com/MatthieuGillieron/chatbot">chatbot</a></td>
     <td>• <a href="https://github.com/MatthieuGillieron/so_long">so_long</a></td>
     <td>• <a href="https://github.com/MatthieuGillieron/cleanMyFiles">clean_my_files</a></td>
-    <td>coming soon</td>
+    <td>• coming soon</td>
   </tr>
   <!-- Nouvelle ligne pour ajouter d'autres projets -->
   <tr>
-    <td>• [Nouveau projet IA]</td>
-    <td>• [Nouveau jeu vidéo]</td>
-    <td>• [Nouveau outil]</td>
-    <td>[Nouveau dev-web]</td>
+    <td></td>
+    <td></td>
+    <td>• <a href="https://github.com/MatthieuGillieron/ocr_projects">clean_my_files</a></td>
+    <td></td>
   </tr>
 </table>
