@@ -11,9 +11,9 @@
     <th>Dev-Web</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/MatthieuGillieron/chatbot">● chatbot</a></td>
-    <td><a href="https://github.com/MatthieuGillieron/so_long">● so_long</a></td>
-    <td><a href="https://github.com/MatthieuGillieron/cleanMyFiles">● clean_my_files</a></td>
+    <td>• <a href="https://github.com/MatthieuGillieron/chatbot">chatbot</a></td>
+    <td>• <a href="https://github.com/MatthieuGillieron/so_long">so_long</a></td>
+    <td>• <a href="https://github.com/MatthieuGillieron/cleanMyFiles">clean_my_files</a></td>
     <td>coming soon</td>
   </tr>
 </table>
