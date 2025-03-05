@@ -1,15 +1,19 @@
-### →  All Games
-| <a href="https://github.com/MatthieuGillieron/so_long"><img src="images/game.png" alt="OCR Project" width="300"></a> |
-|:-----------------------------------:|
-
-### → AI Projects
-| <a href="https://github.com/MatthieuGillieron/chatbot"><img src="images/ai.png" alt="Modules C" width="300"></a> |
-|:-----------------------------------:|
-
-### → Various solutions
-| <a href="https://github.com/MatthieuGillieron/cleanMyFiles"><img src="images/solutions.png" alt="Modules C" width="300"></a> |
-|:-----------------------------------:|
-
-### → Various Tools
-| <a href="https://github.com/MatthieuGillieron/ocr_project"><img src="images/tools.png" alt="Modules C" width="300"></a> |
-|:-----------------------------------:|
+<table>
+  <tr>
+    <td colspan="4" align="center">
+      <img src="images/ban.png" alt="Banner">
+    </td>
+  </tr>
+  <tr>
+    <th>AI Projects</th>
+    <th>Video Games</th>
+    <th>Tools</th>
+    <th>Dev-Web</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MatthieuGillieron/chatbot">● chatbot</a></td>
+    <td><a href="https://github.com/MatthieuGillieron/so_long">● so_long</a></td>
+    <td><a href="https://github.com/MatthieuGillieron/cleanMyFiles">● clean_my_files</a></td>
+    <td>coming soon</td>
+  </tr>
+</table>
