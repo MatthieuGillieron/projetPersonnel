@@ -20,8 +20,15 @@
   <!-- Nouvelle ligne pour ajouter d'autres projets -->
   <tr>
     <td></td>
+    <td>• <a href="https://github.com/MatthieuGillieron/dodge">dodge</a></td></td>
+    <td>• <a href="https://github.com/MatthieuGillieron/ocr_project">ocr_swiss_id</a></td>
     <td></td>
-    <td>• <a href="https://github.com/MatthieuGillieron/ocr_project">ocr_id</a></td>
+  </tr>
+  
+   <tr>
+    <td></td>
+    <td>• <a href="https://github.com/MatthieuGillieron/cell_slayer">cell_slayer</a></td></td>
+    <td></a></td>
     <td></td>
   </tr>
 </table>
